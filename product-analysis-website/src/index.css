@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .active-link{
+    @apply border-b-4 border-b-red-600   text-white  bg-red-500 rounded-lg px-5
+  }
+}
+h1 {
+  text-shadow: 1px 2px 3px blueviolet;
+}
+li{
+  text-shadow: 2px 5px 5px palevioletred;
+}
+

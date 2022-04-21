@@ -1,0 +1,53 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+    margin-top: 40px;
+    padding: 10%;
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+}
+.cart-container{
+    padding: 10%;
+}
+@media screen and (max-width:560px){
+    .shop{
+        padding: 5%;
+        grid-template-columns: 1fr;
+        
+    }
+    .products-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+
+}
+
+.btn-div button{
+    width: 200px;
+    padding-left: 30px;
+    
+    
+
+}
+.choose-btn{
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+}
+.choose-btn:hover{
+    background-color: green;
+}
+.choose-again-btn{
+    background-color:rgb(9, 162, 189);
+    color: white;
+    border: none;
+    padding: 7px;
+    border-radius: 7px;
+}
+.choose-again-btn:hover{
+    background-color: red;
+}

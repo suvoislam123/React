@@ -1,0 +1,10 @@
+.selected-product{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.selected-product img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}

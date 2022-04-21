@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="input" placeholder="Enter the product">
+    <button id="btn" onclick="addItem()">Add to cart</button>
+    <script>
+        const addItem = ()=>{
+        const product = document.getElementById('input').value;
+        if(product)
+        {
+            const productsObjStr = localStorage.getItem('products');
+            if(!productsObjStr)
+            {
+                localStorage.setItem('products','{}')
+            }
+            
+            const productsObj = JSON.parse(productsObjStr)
+            console.log(productsObj);
+            if(productsObj[product])
+            {
+                productsObj[product] = productsObj[product] + 1;
+            }
+            else{
+                productsObj[product]=1;
+            }
+            const newProductObjStr = JSON.stringify(productsObj);
+            localStorage.setItem('products',newProductObjStr);
+            }
+        }
+    </script>
+</body>
+</html>

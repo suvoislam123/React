@@ -1,0 +1,79 @@
+[
+    {
+      "id": "623ee1603f54f9c669747757",
+      "index": 0,
+      "price": "$1,919.18",
+      "img": "https://static-01.daraz.com.bd/p/c105acbb4e473dc77dcd7c02a40d9d4e.jpg",
+      "name": "Mcfarland Bowen"
+    },
+    {
+      "id": "623ee16031c47139d30d7cd3",
+      "index": 1,
+      "price": "$2,800.64",
+      "img": "https://static-01.daraz.com.bd/p/79c3c82604a677c72636360762f57d59.jpg",
+      "name": "Marietta Cunningham"
+    },
+    {
+      "id": "623ee160488170e3b8fdff7d",
+      "index": 2,
+      "price": "$2,747.42",
+      "img": "https://static-01.daraz.com.bd/p/a7379969e69d673d0d67d2e405c9cd86.jpg",
+      "name": "Samsung A303"
+    },
+    {
+      "id": "623ee1607619b263a6475483",
+      "index": 3,
+      "price": "$1,660.64",
+      "img": "https://static-01.daraz.com.bd/p/mdc/b4842a1761e3a98ff70ae2a7a1cd4fa5.jpg",
+      "name": "Ralme w33"
+    },
+    {
+      "id": "623ee1609e98ce08f56f3568",
+      "index": 4,
+      "price": "$3,334.53",
+      "img": "https://static-01.daraz.com.bd/p/mdc/7bc0a591c01aa9590f6b754e3f330abc.jpg",
+      "name": "Realme GT"
+    },
+    {
+      "id": "623ee16072bdd9f46df13100",
+      "index": 5,
+      "price": "$1,623.60",
+      "img": "https://static-01.daraz.com.bd/p/abb4ff6094d1577ded1869124c23730a.jpg",
+      "name": "Samsung M12"
+    },
+    {
+      "id": "623ee16033cb07f69a37e1f7",
+      "index": 6,
+      "price": "$1,128.40",
+      "img": "https://static-01.daraz.com.bd/p/4a40dc8d784a628735676cdce097e032.jpg",
+      "name": "Linex"
+    },
+    {
+      "id": "623ee160770139953cfc4781",
+      "index": 7,
+      "price": "$3,194.00",
+      "img": "https://static-01.daraz.com.bd/p/5ab075aac6033b78bfcc7ca8ad382f5e.jpg",
+      "name": "Gionee A12"
+    },
+    {
+      "id": "623ee160a7a25b31ec20da98",
+      "index": 8,
+      "price": "$3,360.51",
+      "img": "https://static-01.daraz.com.bd/p/4d13875beaf5f3b503c9a531c2c9bd42.jpg",
+      "name": "Lava Benco"
+    },
+    {
+      "id": "623ee16049950177d9ffdeee",
+      "index": 9,
+      "price": "$3,137.29",
+      "img": "https://static-01.daraz.com.bd/p/076344f127bbc9b015aae4bdc65dfc1b.jpg",
+      "name": "Geo R13"
+    },
+    {
+      "id": "623ee160a7f0f9076470f97a",
+      "index": 10,
+      "price": "$2,780.48",
+      "img": "https://static-01.daraz.com.bd/p/f53a00ad2ac1ce5f5c041dfed1b5b923.png",
+      "name": "Motolora"
+    }
+  ]

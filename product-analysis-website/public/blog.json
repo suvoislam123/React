@@ -1,0 +1,23 @@
+[
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "What is Context API?",
+      "by": "Shuvo Islam",
+      "body": "The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to \"prop drilling\" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.Context API is a (kind of) new feature added in version 16.3 of React that allows one to share state across the entire app (or part of it) lightly and with ease.React.createContext() is all you need. It returns a consumer and a provider. Provider is a component that as it's names suggests provides the state to its children. It will hold the \"store\" and be the parent of all the components that might need that store. Consumer as it so happens is a component that consumes and uses the state."
+    },
+    {
+      "postId": 1,
+      "id": 2,
+      "name": "What is sematic tag?",
+      "by": "Shawon Sheikh",
+      "body": "There are over a billion websites on the Internet. Many of them are made a long time ago and have not been updated with HTML features. As such, search engines move past these websites, and viewers find these websites difficult to read.One of the most important features of HTML5 is its semantics. Semantic HTML refers to syntax that makes the HTML more comprehensible by better defining the different sections and layout of web pages. It makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content. For example, instead of using div id=\"header\" you can use a header tag.In this guide, you will learn how to use new semantic HTML5 tags in a web page creation and how to make content more informative for machines."
+    },
+    {
+      "postId": 1,
+      "id": 3,
+      "name": "Difference Between inline and block element.",
+      "by": "Shakib Khan",
+      "body": "Inline vs block is one of the most important factors when choosing which HTML element to use in your markup. Semantics matter as well, and this should always be considered. But the display behavior will have a direct impact on the visual aspect of your page. With a block-level element, there will always be a new line after the closing tag. So, no matter how you organize your HTML, block-level elements always create a new line. With an inline element, there is never a new line. Therefore, no matter how you organize your inline-elements in the markup, they will always appear side-by-side.Okay, so every HTML element that has a visual presence is either inline or block, by default. For example, HTML elements such as “SPAN”, “IMG”, and “LABEL” are inherently inline. On the other hand, HTML elements such as “DIV”, “P”, and “UL” are block by default. This default behavior can be changed, however; i.e., inline elements can be set to display:block, and block-level elements can be set to display:inline. There’s no reason why you can’t apply this kind of reverse display logic; it’s perfectly valid. Just keep in mind, though, that there may be visual ramifications, but, of course, that’s up to you. It’s just important for you to know that if you want to, you can change the default visual behavior of inline and block-level elements."
+    }
+]

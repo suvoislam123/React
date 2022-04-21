@@ -1,0 +1,10 @@
+.random-selected-item{
+    display: flex;
+    align-items: center;
+}
+.random-selected-item img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    
+}

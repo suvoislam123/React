@@ -1,0 +1,24 @@
+.product{
+    height: 400px;
+    width: 260px;
+    position: relative;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+.product img{
+    height: 200px;
+    width: 250px;
+}
+.product-btn{
+    width: 100%;
+    background-color: orange;
+    border: none;
+    border-radius: 7px;
+    padding: 13px;
+    position: absolute;
+    bottom: 0px;
+}
+.product-btn:hover{
+    background-color: red;
+    color: white;
+}

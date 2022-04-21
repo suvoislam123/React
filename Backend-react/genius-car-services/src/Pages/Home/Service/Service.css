@@ -1,0 +1,11 @@
+.service-container{
+    border: 1px solid gray;
+    border-radius: 3px;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.service-container button{
+    margin-top: auto 0;
+}
+

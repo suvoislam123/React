@@ -1,0 +1,25 @@
+form input, button{
+  height: 30px;
+  width: 300px;
+  display: block;
+  margin-top: 34px;
+  margin: 20px auto;
+  border: 2px solid brown;
+  border-radius: 4px;
+}
+form{
+  border: 2px solid lightblue;
+  width: 400px;
+  margin: 60px auto;
+}
+.menu-links{
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.3rem;
+  cursor: pointer;
+  flex-wrap: wrap;
+}
+.menu-links a{
+  text-decoration: none;
+  color: crimson;
+}
